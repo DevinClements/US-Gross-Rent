@@ -1,0 +1,7 @@
+File Name: BigFinale
+Dataset Name: Final_Project_Data.csv
+Group Number: 4
+Group Members: Devin Clements, Micah Downs, Leah Johnson
+Class: CS 4731-A
+Class Name: Big Data/Machine Learning
+Semester: Fall 2017
